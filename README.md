@@ -4,8 +4,8 @@
 
 <img align="right" height="300"  alt="GIF" src="https://i.pinimg.com/originals/13/f0/ff/13f0ffdf12d65d1f1dc835d7d0429655.gif" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrisnaCahya&show_icons=true&theme=radical" width="400">
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrisnaCahya&show_icons=true&theme=radical" width="400">
+ -->
 - 👋 Hi, I’m @KrisnaCahya
 - 👀 I’m interested in Programming
 - 💞️ I’m looking to collaborate on ...
