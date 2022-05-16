@@ -11,9 +11,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @krisnacahyaaaa (instagram)
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisnaCahya&layout=compact&theme=dracula" />
-
 You can contact me at:<br>
 <a href="https://t.me/ExcaliburZx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="mailto:yoga3911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -36,3 +33,5 @@ Have learned:<br>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/
+     
+[![KrisnaCahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisnaCahya&theme=radical&show_icons=true)](https://github.com/KrisnaCahya/github-readme-stats)
