@@ -1,18 +1,22 @@
-### 👋 Hello 👋
+<h1 style="center">
+    Hi there 👋 I'm Krisna Cahya Pratama
+</h1>
 
-# 🏆Name
-- 👑My Name is KrisnaCahya!\
-- 👀 I’m interested in LUA,C#,Python,JavaScript
-- 🌱 I’m currently learning LUA & C#
-- 🎯My Discord : Krisss#3215
 
-# 🔮My Passions
-- 🎆 **FiveM Roleplay Player**
-- 🎓 **Still Student**
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrisnaCahya&show_icons=true&theme=radical" width="400">
 
-> [![Discord](https://cdn.discordapp.com/attachments/811787365630738502/958212252908023808/unknown.png)](https://discord.gg/q2t55neFxb)
+- 👋 Hi, I’m @KrisnaCahya
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me @krisnacahyaaaa (instagram)
 
-# Github Statistic
-![](https://komarev.com/ghpvc/?username=KrisnaCahya&color=blue)
 
-> [![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=KrisnaCahya&show_icons=true&theme=dark&count_private=true)](https://discord.gg/q2t55neFxb)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisnaCahya&layout=compact&theme=dracula" />
+
+####ContactMe :
+<br>
+<a href="https://www.instagram.com/krisnacahyaaaa/">
+    <img src="https://img.shields.io/badge/KrisnaCahya-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
