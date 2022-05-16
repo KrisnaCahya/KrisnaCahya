@@ -14,7 +14,7 @@
 You can contact me at:<br>
 <!-- <a href="https://t.me/ExcaliburZx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> -->
 <a href="mailto:krisnacahyap2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="@krisnacahyaaaa"><img src="https://img.shields.io/badge/KrisnaCahya-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/krisnacahyaaaa/"><img src="https://img.shields.io/badge/KrisnaCahya-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 Operating System:<br>
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
