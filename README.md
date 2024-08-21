@@ -34,4 +34,5 @@ Have learned:<br>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
      
-[![KrisnaCahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisnaCahya&theme=radical&show_icons=true)](https://github.com/KrisnaCahya/github-readme-stats)
+<!-- [![KrisnaCahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisnaCahya&theme=radical&show_icons=true)](https://github.com/KrisnaCahya/github-readme-stats) -->
+![KrisnaCahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisnaCahya&show_icons=true&theme=radical)
