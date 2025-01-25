@@ -35,4 +35,18 @@ Have learned:<br>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
      
 <!-- [![KrisnaCahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisnaCahya&theme=radical&show_icons=true)](https://github.com/KrisnaCahya/github-readme-stats) -->
-![KrisnaCahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisnaCahya&show_icons=true&theme=radical)
+<!--![](https://visitor-badge.laobi.icu/badge?page_id=nurrifqialhusaini.nurrifqialhusaini) --->
+# Github Stats
+<p float="left">
+    <img src="https://streak-stats.demolab.com?user=KrisnaCahya&theme=dark" width="58%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=KrisnaCahya&row=2&column=3&theme=onedark#1&margin-w=15&margin-h=15" width="50%">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=KrisnaCahya&theme=onedark" width="42%" />
+</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nurrifqialhusaini/nurrifqialhusaini/output/snake.svg" alt="Snake animation" />
+
+###
