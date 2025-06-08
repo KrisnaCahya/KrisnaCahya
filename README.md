@@ -133,7 +133,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KrisnaCahya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/KrisnaCahya?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/KrisnaCahya?tab=followers">
+    <img src="https://img.shields.io/github/followers/KrisnaCahya?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  </a>
+  <img src="https://img.shields.io/github/stars/KrisnaCahya?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 </div>
 
 <div align="center">
