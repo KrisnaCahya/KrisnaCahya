@@ -134,9 +134,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KrisnaCahya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/KrisnaCahya?tab=followers">
-    <img src="https://img.shields.io/github/followers/KrisnaCahya?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/👥_Followers-Check_Profile-blue?style=for-the-badge" alt="GitHub Followers" />
   </a>
-  <img src="https://img.shields.io/github/stars/KrisnaCahya?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <a href="https://github.com/KrisnaCahya?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐_Stars-View_Repos-yellow?style=for-the-badge" alt="GitHub Stars" />
+  </a>
+  <img src="https://img.shields.io/badge/🔥_Contributions-Active-green?style=for-the-badge" alt="Active Contributor" />
 </div>
 
 <div align="center">
