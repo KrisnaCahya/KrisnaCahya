@@ -1,52 +1,112 @@
-<h1 style="center">
-    Hi there 👋 I'm Krisna Cahya Pratama
-</h1>
+# Hi there! 👋 I'm Krisna Cahya Pratama
 
-<img align="right" height="300"  alt="GIF" src="https://i.pinimg.com/originals/13/f0/ff/13f0ffdf12d65d1f1dc835d7d0429655.gif" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrisnaCahya&show_icons=true&theme=radical" width="400">
- -->
-- 👋 Hi, I’m @KrisnaCahya
-- 👀 I’m interested in Programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @krisnacahyaaaa (instagram)
+<img align="right" height="300" width="400" alt="Coding Animation" src="https://i.pinimg.com/originals/13/f0/ff/13f0ffdf12d65d1f1dc835d7d0429655.gif" />
 
-You can contact me at:<br>
-<!-- <a href="https://t.me/ExcaliburZx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> -->
-<a href="mailto:krisnacahyap2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/krisnacahyaaaa/"><img src="https://img.shields.io/badge/KrisnaCahya-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white"></a>
+## 🚀 About Me
 
-Operating System:<br>
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
-Have learned:<br>
-<img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-     
-<!-- [![KrisnaCahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisnaCahya&theme=radical&show_icons=true)](https://github.com/KrisnaCahya/github-readme-stats) -->
-<!--![](https://visitor-badge.laobi.icu/badge?page_id=nurrifqialhusaini.nurrifqialhusaini) --->
-# Github Stats
-<p float="left">
-    <img src="https://streak-stats.demolab.com?user=KrisnaCahya&theme=dark" width="58%" />
-    <img src="https://github-profile-trophy.vercel.app/?username=KrisnaCahya&row=2&column=3&theme=onedark#1&margin-w=15&margin-h=15" width="50%">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=KrisnaCahya&theme=onedark" width="42%" />
-</p>
-
-###
+- 🔭 I'm currently working on **Web & Mobile Development**
+- 🌱 I'm currently learning **Advanced Flutter & Laravel**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **PHP, Flutter, Python, Web Development**
+- ⚡ Fun fact: **I love turning coffee into code!** ☕
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nurrifqialhusaini/nurrifqialhusaini/output/snake.svg" alt="Snake animation" />
+## 🌐 Connect With Me
 
-###
+<div align="center">
+  <a href="mailto:krisnacahyap2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/krisnacahyaaaa/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/KrisnaCahya">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+</div>
+
+### 🎨 Frontend Development
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</div>
+
+### ⚙️ Backend & Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</div>
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
+
+### 🔧 Tools & Others
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KrisnaCahya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisnaCahya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KrisnaCahya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KrisnaCahya&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrisnaCahya&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KrisnaCahya/KrisnaCahya/output/snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrisnaCahya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/KrisnaCahya?label=Followers&style=social" alt="GitHub Followers" />
+</div>
+
+<div align="center">
+  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+</div>
