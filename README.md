@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Krisna Cahya Pratama
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+App+Developer;FiveM+Script+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <img align="right" height="300" width="400" alt="Coding Animation" src="https://i.pinimg.com/originals/13/f0/ff/13f0ffdf12d65d1f1dc835d7d0429655.gif" />
@@ -9,9 +9,11 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **Web & Mobile Development**
+- 🎮 Passionate **FiveM Script Developer** creating custom resources
 - 🌱 I'm currently learning **Advanced Flutter & Laravel**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **PHP, Flutter, Python, Web Development**
+- 👯 I'm looking to collaborate on **Open Source Projects & FiveM Scripts**
+- 💬 Ask me about **PHP, Flutter, Python, Web Development, FiveM Scripting**
+- 🎯 Specialized in **FiveM ESX/QBCore frameworks**
 - ⚡ Fun fact: **I love turning coffee into code!** ☕
 
 <br clear="both">
@@ -42,6 +44,15 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+</div>
+
+### 🎮 Game Development & Modding
+<div align="center">
+  <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
+  <img src="https://img.shields.io/badge/ESX_Framework-00D4AA?style=for-the-badge&logo=lua&logoColor=white" alt="ESX" />
+  <img src="https://img.shields.io/badge/QBCore-FF6B35?style=for-the-badge&logo=lua&logoColor=white" alt="QBCore" />
+  <img src="https://img.shields.io/badge/GTA_V_Modding-00CED1?style=for-the-badge&logo=rockstargames&logoColor=white" alt="GTA V Modding" />
 </div>
 
 ### 🎨 Frontend Development
@@ -70,6 +81,24 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
+
+## 🎮 FiveM Development Experience
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-brightgreen?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Scripts%20Created-50%2B-blue?style=for-the-badge" alt="Scripts Created" />
+  <img src="https://img.shields.io/badge/Servers%20Worked-10%2B-orange?style=for-the-badge" alt="Servers" />
+</div>
+
+### 🔧 FiveM Specializations
+- **🏪 Job Systems**: Custom job scripts with unique mechanics
+- **🏦 Banking & Economy**: Advanced economy systems and banking scripts
+- **🚗 Vehicle Systems**: Custom vehicle shops, tuning, and modifications
+- **🏠 Housing Systems**: Property management and real estate scripts  
+- **👮 Police/EMS Systems**: Law enforcement and medical response tools
+- **🎯 Custom Resources**: Tailored scripts for specific server needs
+- **🔄 Framework Migration**: ESX to QBCore conversion expertise
+- **🎨 UI/UX Design**: Modern NUI interfaces with HTML/CSS/JS
 
 ## 📊 GitHub Analytics
 
