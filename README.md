@@ -27,7 +27,7 @@
 
 ```yaml
 name       : Krisna Cahya Pratama
-location   : Bandung, Indonesia 🇮🇩
+location   : Banyuwangi, Indonesia 🇮🇩
 role       : Full Stack & FiveM Developer
 current    : Learning Advanced Flutter & Laravel
 interests  : [Open Source, Game Modding, Web Dev, Coffee ☕]
